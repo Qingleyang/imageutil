@@ -34,7 +34,7 @@ public class ImageUtil {
         Thumbnails.of("F:\\2018\\201809\\20180918\\image.jpg").size(2560, 2048).toFile("F:\\2018\\201809\\20180918\\image2560*2048.jpg");
     }
 
-    //按照比例进行缩放
+    //按照比例进行缩放20190213
     private void specifyProportion() throws IOException {
         //scale(比例)
          
